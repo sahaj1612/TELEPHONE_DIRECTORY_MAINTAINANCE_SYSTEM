@@ -1,0 +1,3 @@
+Sahaj 1001 2001 ComputerScience Dharwad 8001
+Harsha 1002 2001 ComputerScience Dharwad 8002
+Santosh 1003 2002 Electrical Dharwad 8003
