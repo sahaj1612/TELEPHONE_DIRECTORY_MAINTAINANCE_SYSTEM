@@ -8,9 +8,9 @@ Project Files
 
 ------------
 
-FileFunctions.c - Program entry point, employee functions, and telephone-number functions.
+FileFunctions.c - Program entry point and employee functions.
 DeptMaint.c - Department maintenance functions.
-TelDir.c - Main menu and telephone enquiry functions.
+TelDir.c - Telephone-number maintenance, main menu, and telephone enquiry functions.
 FileFunctions.h - Function declarations shared by the source files.
 emp.txt - Employee records.
 dept.txt - Department records.

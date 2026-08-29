@@ -5,16 +5,16 @@
 void addDepartment();
 void printDepartments();
 
-// Functions from FileFunctions.c
+// Employee functions from FileFunctions.c
 void addEmployee();
 void printEmployee();
 void EmpMenu();
-void addTelNo();
-void AddTelephoneNumber();
-void telephoneMenu();
-void TelMenu();
 
-// Functions from TelDir.c
+// Telephone functions from TelDir.c
+void addTelNo();
+void telephoneMenu();
+
+// Main menu and enquiry functions from TelDir.c
 void TelephoneEnquiryMenu();
 void mainMenu();
 void DeptMenu();
