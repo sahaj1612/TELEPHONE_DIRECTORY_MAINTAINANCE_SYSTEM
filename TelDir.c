@@ -299,6 +299,7 @@ void mainMenu(){
 
         case 5:
             printf("Exiting the program...\n");
+            exit(0);
             break;
 
         default:
